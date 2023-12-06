@@ -13,7 +13,9 @@
 <br/><br/>
 
 - 🌱 I’m currently learning **Machine Learning & AI**
-
+  
+- 🔭 I’m currently working on **House Price Prediction System**
+  
 - 💬 Ask me about **python, machine learning, data science**
 
 - 📫 How to reach me **arunikaagamage@gmail.com**
