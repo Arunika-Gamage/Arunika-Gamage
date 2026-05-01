@@ -12,7 +12,7 @@
 </p>
 <br/><br/><br/><br/><br/>
   
-- 💬 Ask me about **python, machine learning, data science**
+- 💬 Ask me about **AI, machine learning, data science**
 
 - 📫 How to reach me **arunikaagamage@gmail.com**
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunika-gamage&label=Profile%20views&color=0e75b6&style=flat" alt="arunika-gamage" /> </p>
