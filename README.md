@@ -1,6 +1,6 @@
 <img align="left" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 <h1 align="center">Hi 👋, I'm Runi !</h1>
-<h3 align="center"> AI Engineer | Curious by default  <br/></h3>
+<h3 align="center"> AI Engineer • LLMs, RAG pipelines & ML systems • Python | LangChain | PyTorch | AWS  <br/></h3>
 
 <h4 align="center">  
  Building at the intersection of intelligence, engineering, <br/> and decisions that actually affect people  
