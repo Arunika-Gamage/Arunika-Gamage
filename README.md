@@ -3,7 +3,7 @@
 <h3 align="center"> Data Science Graduate | Passionate about AI, ML & Analytics 💎 <br/></h3>
 
 <h4 align="center"> Transforming lines of code into a ballet of orchestrated intelligence 💃  <br/>
-   Exploring the art and science of machine learning 🤖 
+ Building at the intersection of intelligence, engineering, and decisions that actually affect people  
 </h4>
 
 <h3 align="center">Connect with me:</h3>
