@@ -35,7 +35,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arunika-Gamage&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arunika-Gamage&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Arunika-Gamage&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
