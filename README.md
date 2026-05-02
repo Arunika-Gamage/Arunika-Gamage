@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Arunika%20Gamage&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=I%20build%20AI%20that%20thinks%20before%20it%20acts&descAlignY=58&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=AI%20Systems%20Engineer&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=I%20build%20AI%20that%20thinks%20before%20it%20acts&descAlignY=58&descSize=22" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=7EC8E3&center=true&vCenter=true&width=700&lines=RAG+Pipelines+%E2%80%94+from+idea+to+production;LLM+Agents+with+real+decision+power;ML+systems+built+for+the+real+world;Finding+signal+in+noise%2C+then+building+on+it" alt="Typing SVG" />
